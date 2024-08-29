@@ -2,4 +2,4 @@ token:
   expiration_time: 86400000
   secret: user_service_tokendddddddddddddddddddddddd123
 gateway:
-  ip: 127.0.0.1
+  ip: 35.193.153.41
